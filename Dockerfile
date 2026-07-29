@@ -10,5 +10,3 @@ run touch 1.txt
 
 #hi
 #bye
-#see you
-
